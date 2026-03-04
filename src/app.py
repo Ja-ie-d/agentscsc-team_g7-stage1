@@ -5,6 +5,7 @@ from .agent import Agent
 from .logger import build_logger
 from .utils import load_yaml, load_text
 
+
 def main() -> None:
     load_dotenv()
 
